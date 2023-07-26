@@ -7,6 +7,15 @@
  author="Matt Turetsky"
  layout="vertical">
 
+<param ve-entity eid="Q82151" title="Food and Agricultural Organization">
+<param ve-entity eid="Q5456" title="Andes">
+<param ve-entity eid="Q3772675" title="superfood">
+<param ve-entity eid="Q5218" title="Quechua">
+<param ve-entity eid="Q158094" title="Chenopodium">
+<param ve-entity eid="Q19912346" title="Amaranthaceae">
+<param ve-entity eid="Q3772675" title="superfood">
+<param ve-entity eid="Q3772675" title="superfood">
+
 
 In 2013, quinoa had its big break. The Food and Agricultural Organization of the United Nations declared that year the “International Year of Quinoa,” and a flurry of newspaper and scholarly articles talked about this new food called quinoa. It seemed to appear out of nowhere, and it had wonderful nutritional properties – high protein, essential vitamins and minerals, gluten-free.[^1]  For its exceptional nutrition and exoticness people began calling it a “superfood.” For several years already and especially following 2013, consumers around the world began adding it to salads for a protein boost, substituting it for rice to eliminate carbs, and experimenting with it in baked goods. And yet we hardly knew where it came from, the farmers who cultivated it, what quinoa meant to them before the quinoa boom, and the impact of the food trend on these communities.
 
@@ -102,13 +111,4 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^26]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
 [^27]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^28]: Seligmann, _Quinoa_, chap. 7.
-
-<param ve-entity eid="Q82151" title="Food and Agricultural Organization">
-<param ve-entity eid="Q5456" title="Andes">
-<param ve-entity eid="Q3772675" title="superfood">
-<param ve-entity eid="Q5218" title="Quechua">
-<param ve-entity eid="Q158094" title="Chenopodium">
-<param ve-entity eid="Q19912346" title="Amaranthaceae">
-<param ve-entity eid="Q3772675" title="superfood">
-<param ve-entity eid="Q3772675" title="superfood">
 
