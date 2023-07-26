@@ -12,11 +12,12 @@ In 2013, quinoa had its big break. The Food and Agricultural Organization of the
 
 <param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434">
 
+
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,” identified by problematic terms such as “superfood,” but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2]  Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a forgotten plant.
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" title="A field of quinoa in the Andes">
 
-# Botanical Properties of Quinoa
+### Botanical Properties of Quinoa
 
 The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lambs’ quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (Amaranthaceae).
 
