@@ -7,13 +7,14 @@
  author="Matt Turetsky"
  layout="vertical">
 
+### Introduction
 In 2013, quinoa had its big break. Brazil The Food and Agricultural Organization of the United Nations declared that year the “International Year of Quinoa,” and a flurry of newspaper and scholarly articles talked about this new food called quinoa. It seemed to appear out of nowhere, and it had wonderful nutritional properties – high protein, essential vitamins and minerals, gluten-free.[^1]  For its exceptional nutrition and exoticness people began calling it a “superfood.” For several years already and especially following 2013, consumers around the world began adding it to salads for a protein boost, substituting it for rice to eliminate carbs, and experimenting with it in baked goods. And yet we hardly knew where it came from, the farmers who cultivated it, what quinoa meant to them before the quinoa boom, and the impact of the food trend on these communities.
-
 <param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434">
+{#paragraph1}
 
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,” identified by problematic terms such as “superfood,” but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2]  Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a forgotten plant.
-
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" title="A field of quinoa in the Andes">
+{#paragraph2}
 
 ### Botanical Properties of Quinoa
 
