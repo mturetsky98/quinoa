@@ -19,7 +19,7 @@ In fact, quinoa has a long history, dating back several thousand years to the An
 
 ### Botanical Properties of Quinoa
 
-The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lambs’ quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (Amaranthaceae).
+The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lambs’ quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (_Amaranthaceae_).
 
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.us00036845">
 
