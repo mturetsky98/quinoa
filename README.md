@@ -110,7 +110,7 @@ height="750">
 {#paragraph21}
 
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Mineral prospecting and extraction near quinoa farms, also supposed to increase the standard of living for highland Andean communities, threaten the sustainability of quinoa production for Peruvian farmers as the two industries are fundamentally at odds with one another.[^28] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
-<param ve-image url="https://commons.wikimedia.org/wiki/File:Chenopodium_quinoa0.jpg">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Chenopodium_quinoa0.jpg">
 {#paragraph22}
 
 ### References
