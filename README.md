@@ -25,6 +25,8 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3]  Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botanical gardens and taxonomy.[^5]
 
+<param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434">
+
 ### The Importance of Quinoa in Ancient Andean Diets
 
 Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. It is unclear how important quinoa was to Incan diets and culture, but Incas also referred to quinoa as chisiya mama, or Mother Grain.[^6]
