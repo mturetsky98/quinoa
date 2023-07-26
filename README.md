@@ -76,7 +76,7 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 
 [^1]:  Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
 [^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–13.
-[^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme]
+[^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme)
 [^4]: Carl Ludwig Willdenow. _Species Plantarum_ (Berlin: G. C. Nauk, 1798), ed. 4 1(2): 1301.
 [^5]: H. Walter Lack and Susy Fuentes, “The Discovery, Naming and Typification of Chenopodium Quinoa (Chenopodiaceae),” _Willdenowia_ 43, no. 1 (2013): 148.
 [^6]: María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," in FAO and CIRAD, _State of the Art Report on Quinoa around the World in 2013_, eds. Didier Bazile, Daniel Bertrero, and Carlos Nieto (Rome, 2015), 36.
@@ -94,12 +94,12 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^18]: Daniel W. Gade, “Llamas and Alpacas as "Sheep" in the Colonial Andes: Zoogeography Meets Eurocentrism,” _Journal of Latin American Geography_ 12, no. 2 (2013): 221–43.
 [^19]: Samuel Curtis and Sir William Jackson Hooker, “Chenopodium Quinoa. Useful Quinoa.” _Curtis’s Botanical Magazine_ vol. 65 (ser. 2 vol. 12) (1839), 3641.
 [^20]: Linda Seligmann, _Quinoa: Food Politics and Agrarian Life in the Andean Highlands_ (Urbana, Illinois: University of Illinois Press, 2022), 163.
-[^21]: FAO Regional Office for Latin America and Caribbean and PROINPA, “Quinoa: An Ancient Crop to Contribute to World Food Security,” 2011. [http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf]
+[^21]: FAO Regional Office for Latin America and Caribbean and PROINPA, “Quinoa: An Ancient Crop to Contribute to World Food Security,” 2011. [http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf](http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf)
 [^22]: Semra Navruz-Varli and Nevin Sanlier, “Nutritional and Health Benefits of Quinoa (Chenopodium Quinoa Willd.),” _Journal of Cereal Science_ 69 (May 1, 2016): 372.
 [^23]: Augustus Voelcker, “The Chemical Composition of Quinoa Seed,” _The Journal of Agriculture_, (1850), 506–9.
 [^24]:  María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," 31
 [^25]: María Elena García, Gastropolitics and the Specter of Race: Stories of Capital, Culture, and Coloniality in Peru (Oakland, California: University of California Press, 2021). For quinoa's place in novoandino cuisine, see p. 58.
-[^26]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/]
+[^26]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
 [^27]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^28]: Seligmann, _Quinoa_, chap. 7.
 
