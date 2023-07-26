@@ -8,8 +8,6 @@
  layout="vertical">
 
 
-<param ve-entity eid="Q158094" title="Chenopodium">
-
 In 2013, quinoa had its big break. Brazil The Food and Agricultural Organization of the United Nations declared that year the “International Year of Quinoa,” and a flurry of newspaper and scholarly articles talked about this new food called quinoa. It seemed to appear out of nowhere, and it had wonderful nutritional properties – high protein, essential vitamins and minerals, gluten-free.[^1]  For its exceptional nutrition and exoticness people began calling it a “superfood.” For several years already and especially following 2013, consumers around the world began adding it to salads for a protein boost, substituting it for rice to eliminate carbs, and experimenting with it in baked goods. And yet we hardly knew where it came from, the farmers who cultivated it, what quinoa meant to them before the quinoa boom, and the impact of the food trend on these communities.
 
 <param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434">
@@ -105,3 +103,4 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^27]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^28]: Seligmann, _Quinoa_, chap. 7.
 
+<param ve-entity eid="Q158094" title="Chenopodium">
