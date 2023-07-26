@@ -51,7 +51,6 @@ Spanish colonization brought significant changes to farmers growing quinoa. As p
 
 <param ve-image url="ColumbianExchange.jpg">
 
-
 In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman Guaman Poma de Ayala explained the agricultural habits of Indigenous Andeans. Alongside quinoa they grew potatoes, oca, maize, coca, and many other plants. In September they planted quinoa. While the Incas did not have a writing system, they still devised a way to maintain important records on knotted threads called a quipu. While present day scholars have not discovered how to read quipus, it is likely that they served more as a memory device rather than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^12] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods.
 
 <param ve-image url="Poma1.jpg">
@@ -68,6 +67,8 @@ Whether or not the Spanish really did enjoy quinoa as much as Garcilaso suggests
 ### Early Descriptions of Quinoa
 
 Many plants and animals from the Americas that crossed the Atlantic as part of the Columbian Exchange shocked and mystified Europeans. Spanish conquistadors were once wary of now ubiquitous foods like corn, chocolate, tobacco, and potatoes based on racist perceptions of Indigenous people. Because maize was so important to Indigenous diets throughout the Americas, Spaniards analogized the crop to wheat. As the food historian Rebecca Earle explains, church officials debated the extent to which wheat and corn were the same. For the Catholic ritual of communion, Europeans would always use wheat, but Spaniards debated whether maize could be used instead in the colonies. Ultimately, they decided that maize was not a suitable replacement, and as Earle describes, corn became a sort of “anti-wheat.”[^17] Analogies also applied to New World animals. Initially, llamas and alpacas, central in Andean cultures and foodways, were likened to sheep. Europeans used terms like “Peruvian sheep” or “Indian sheep” despite quite different physical features, behaviors, and Indigenous husbandry practices.[^18]
+
+
 
 Quinoa was not immune to these sorts of misunderstandings or faulty analogies. Garcilaso de la Vega compared quinoa to rice or millet because of its size and shape. Questionable comparisons lingered well into the nineteenth century. In 1839 Curtis’s Botanical Magazine, a prominent English garden and botanical magazine, said quinoa is “like the Corn in Europe (corn in this case meaning staple cereals of Europe, mainly wheat, barley, or oats), the ‘chief nourishment of the people’.” The magazine was exaggerating; quinoa was certainly important, but potatoes would have been, and still are, the central component of Andean diets. The magazine goes on to explain that after boiling quinoa like rice or oatmeal, “the seeds are described as floating in the liquid coiled up and looking like little white worms.”[^19]
 
