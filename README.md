@@ -49,11 +49,21 @@ Today and in the past, quinoa is recognized for its exceptional nutritional qual
 
 Spanish colonization brought significant changes to farmers growing quinoa. As part of the Columbian Exchange, Spaniards brought wheat, barley, rice, and other crops from the Old World and introduced them to Andean farming systems. Spanish colonial policies made Indigenous people pay a tribute tax, which could only be paid in wheat or barley. As the geographer Karl Zimmerer explains, this policy essentially forced farmers to grow less quinoa and more European crops. Nevertheless, Indigenous people continued to grow quinoa, despite the impositions of Spanish colonialism.[^11]
 
+<param ve-image url="ColumbianExchange.jpg">
+
+
 In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman Guaman Poma de Ayala explained the agricultural habits of Indigenous Andeans. Alongside quinoa they grew potatoes, oca, maize, coca, and many other plants. In September they planted quinoa. While the Incas did not have a writing system, they still devised a way to maintain important records on knotted threads called a quipu. While present day scholars have not discovered how to read quipus, it is likely that they served more as a memory device rather than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^12] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods.
+
+<param ve-image url="Poma1.jpg">
+<param ve-image url="Poma2.jpg">
 
 In general, Spanish colonizers rejected all types of Indigenous foods in part because they associated it with Indigenous people and in part because they suspected that the foreign foods would do harm to their bodies.[^13] Over time, countless New World foods, such as maize, chocolate, peppers, tomatoes, pineapples, and potatoes became widely popular.[^14]  Some of the earliest Spanish explorers and chroniclers of the Andes were fascinated by quinoa, but it took much longer for quinoa to become popular outside the Andes compared to other plants. Garcilaso explained that both Indigenous people and Spaniards enjoyed quinoa in various soups and stews “for they are tasty and very nourishing.”[^15]
 
+<param ve-iframe src="https://archive.org/details/royalcommentarie0000vega/page/498/mode/2up?view=theater">
+
 Whether or not the Spanish really did enjoy quinoa as much as Garcilaso suggests is not entirely clear. For one, the tribute policy and the continual decline in quinoa production throughout the colonial period suggest that quinoa was not quite so venerated. Sometimes called the first “mestizo” – a person of mixed Indigenous and Spanish descent – Garcilaso sought to defend racial mixing at a time when Spaniards denounced mestizos. Nevertheless, Garcilaso offers an excellent early account of Indigenous customs, including quinoa consumption. He continued, Indigenous people also made quinoa into a beverage, brewing it along with maize into a beer known as chicha. Today, chicha remains an important part of Andean societies, although it is most often made exclusively with corn. Before a large agricultural work party, an offering is made to Pachamama (Mother Earth) in which each member pours a few drops of chicha onto the soil before taking a sip.[^16]
+
+<param ve-image url="Llama effigy.jpg">
 
 ### Early Descriptions of Quinoa
 
