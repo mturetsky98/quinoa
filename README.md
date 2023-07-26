@@ -68,9 +68,11 @@ Whether or not the Spanish really did enjoy quinoa as much as Garcilaso suggests
 
 Many plants and animals from the Americas that crossed the Atlantic as part of the Columbian Exchange shocked and mystified Europeans. Spanish conquistadors were once wary of now ubiquitous foods like corn, chocolate, tobacco, and potatoes based on racist perceptions of Indigenous people. Because maize was so important to Indigenous diets throughout the Americas, Spaniards analogized the crop to wheat. As the food historian Rebecca Earle explains, church officials debated the extent to which wheat and corn were the same. For the Catholic ritual of communion, Europeans would always use wheat, but Spaniards debated whether maize could be used instead in the colonies. Ultimately, they decided that maize was not a suitable replacement, and as Earle describes, corn became a sort of “anti-wheat.”[^17] Analogies also applied to New World animals. Initially, llamas and alpacas, central in Andean cultures and foodways, were likened to sheep. Europeans used terms like “Peruvian sheep” or “Indian sheep” despite quite different physical features, behaviors, and Indigenous husbandry practices.[^18]
 
-
+<param ve-image url="CiezaLlama.jpg">
 
 Quinoa was not immune to these sorts of misunderstandings or faulty analogies. Garcilaso de la Vega compared quinoa to rice or millet because of its size and shape. Questionable comparisons lingered well into the nineteenth century. In 1839 Curtis’s Botanical Magazine, a prominent English garden and botanical magazine, said quinoa is “like the Corn in Europe (corn in this case meaning staple cereals of Europe, mainly wheat, barley, or oats), the ‘chief nourishment of the people’.” The magazine was exaggerating; quinoa was certainly important, but potatoes would have been, and still are, the central component of Andean diets. The magazine goes on to explain that after boiling quinoa like rice or oatmeal, “the seeds are described as floating in the liquid coiled up and looking like little white worms.”[^19]
+
+<param ve-iframe src="https://archive.org/details/mobot31753002721386/page/3641/mode/2up?view=theater">
 
 ### The International Community Latches onto Quinoa
 
