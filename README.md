@@ -88,6 +88,8 @@ Why does quinoa seem to have so much potential? In short, because of its nutriti
 
 While scientists now have a much better understanding of how and why quinoa is nutritionally superior to other grains, the first chemical analysis to determine quinoa’s exceptional composition was performed in 1850! Augustus Voelcker, a chemist at the Royal Agricultural College in Cirencester, England, determined that quinoa contains 19% protein by mass, not far off from today’s estimates. It would take almost a century and a half, however, for quinoa’s nutrition facts to be widely appreciated.[^23]
 
+<param ve-image url="Voelcker.jpg">
+
 Ecologically, quinoa is adapted to many different types of growing environments. This is because there are thousands of different quinoa varieties, sometimes called ecotypes. If one just looks at the shelves of an American grocery store, it may seem that there are only three types of quinoa: white, black, and red. But quinoa varieties differ more than just based on color. Of the thousands of quinoa varieties, there are five broad categories they can be classified in based on geography. These include the coasts of Chile, the inter-Andean valley regions, the altiplano (high-plateau) region that spans Peru and Bolivia, the Yungas, which are the eastern slopes of the Andes, and the salt-flats of Bolivia. Each of these geographies has different climates based on altitude, rainfall, temperature, and soil conditions.[^24]  As a result, seed saving efforts around the world have collected thousands of quinoa seed specimens from subsistence farmers to preserve quinoa’s high genetic diversity and climate adaptability.
 
 ### Quinoa Nutrition Goes Global and Changes Indigenous Livelihoods
