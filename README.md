@@ -21,7 +21,7 @@ In fact, quinoa has a long history, dating back several thousand years to the An
 
 The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lambs’ quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (Amaranthaceae).
 
-<param ve-plant-specimen jpid="10.5555/al.ap.specimen.us00036845?">
+<param ve-plant-specimen jpid="10.5555/al.ap.specimen.us00036845">
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3]  Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botanical gardens and taxonomy.[^5]
 
