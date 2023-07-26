@@ -7,11 +7,9 @@
  author="Matt Turetsky"
  layout="vertical">
 
-
 In 2013, quinoa had its big break. Brazil The Food and Agricultural Organization of the United Nations declared that year the “International Year of Quinoa,” and a flurry of newspaper and scholarly articles talked about this new food called quinoa. It seemed to appear out of nowhere, and it had wonderful nutritional properties – high protein, essential vitamins and minerals, gluten-free.[^1]  For its exceptional nutrition and exoticness people began calling it a “superfood.” For several years already and especially following 2013, consumers around the world began adding it to salads for a protein boost, substituting it for rice to eliminate carbs, and experimenting with it in baked goods. And yet we hardly knew where it came from, the farmers who cultivated it, what quinoa meant to them before the quinoa boom, and the impact of the food trend on these communities.
 
 <param ve-image url="IYQ Logo_color.jpg" title="The official logo of the 2013 International Year of Quinoa" region="10,-60,492,434">
-
 
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,” identified by problematic terms such as “superfood,” but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2]  Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a forgotten plant.
 
@@ -26,7 +24,6 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today, the engraving makes clear the leaf and root structures, while today's pictures usually emphasize the colorful panicle atop the plant.  Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botanical gardens and taxonomy.[^5]
 
 <param ve-image url="Feuillee.jpg" region="-268,125,1921,1695">
-
 
 ### The Importance of Quinoa in Ancient Andean Diets
 
@@ -44,9 +41,7 @@ Today and in the past, quinoa is recognized for its exceptional nutritional qual
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg">
 
-
 ### Quinoa in the Colonial Period
-
 
 Spanish colonization brought significant changes to farmers growing quinoa. As part of the Columbian Exchange, Spaniards brought wheat, barley, rice, and other crops from the Old World and introduced them to Andean farming systems. Spanish colonial policies made Indigenous people pay a tribute tax, which could only be paid in wheat or barley. As the geographer Karl Zimmerer explains, this policy essentially forced farmers to grow less quinoa and more European crops. Nevertheless, Indigenous people continued to grow quinoa, despite the impositions of Spanish colonialism.[^11]
 
@@ -83,6 +78,8 @@ Since the recent rise in international interest in quinoa, scholars in a variety
 
 Scientists and international development agencies, such as the Food and Agricultural Organization (FAO) of the United Nations (UN), have hailed quinoa as an important crop to alleviate the challenges of global hunger and the world’s food supply exacerbated by climate change and a narrowing of crop diversity.  Wheat, rice, and corn make up 60% of all calories consumed, and we rely on very few varieties of those crops. This means that pests, diseases, and unforeseen climate disasters could dramatically impact global public health. As such, policymakers and leaders have encouraged diversifying diets and the genetic makeup of agricultural farms. In 2011, Bolivian officials claimed that quinoa was an “ancient crop to contribute to world food security.”[^21] The FAO agreed and thus was born the International Year of Quinoa.
 
+<param ve-image url="Voelcker.jpg">
+
 Why does quinoa seem to have so much potential? In short, because of its nutritional, ecological, and cultural characteristics. Nutritionally, quinoa is better than many other grain crops, such as wheat, rice, or barley. Most notably, it is very high in protein, consisting of approximately 15% protein by mass, almost twice as much compared to rice and slightly higher than wheat. The quality of the protein is better, too. Scientists determined that quinoa “is one of the few plants that provide all the amino acids necessary for human life, and contrary to grain proteins poor in especially lysines, quinoa proteins are accepted as high-quality proteins.”[^22]
 
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Quinoa_soup.jpg">
@@ -104,6 +101,8 @@ To arrive at the International Year of Quinoa, the plant rode several waves to i
 
 Since the International Year of Quinoa, journalists and scholars have debated whether the quinoa boom has improved or exploited the lives of Indigenous quinoa farmers. On the one hand, proponents argue that profits return to the communities and stimulate economic growth. On the other hand, critics point out that Western consumption of quinoa is yet another example of cultural appropriation of an important Indigenous resource that does not adequately compensate the communities that have cultivated it for centuries and ultimately makes it too expensive for those communities to consume. There does not seem to be a perfect solution to these ethical and economic challenges.
 
+<param ve-image url="Voelcker.jpg">
+
 One potential problem for quinoa growers in the Andes is the introduction of commercial quinoa farming in the United States, China, or elsewhere in the world that may be able to produce more quinoa at a lower price and outcompete Andean farmers in the market. While this has not happened yet, it is not an entirely new fear. In 1994, American researchers patented an improved variety of quinoa based off seeds cultivated by Bolivian farmers. In response, the National Association of Quinoa Producers (ANAPQUI) in Bolivia fiercely challenged the patent, arguing that the patent stole intellectual property from the Indigenous farmers. The patent was upheld but the owners ultimately let it expire in 1998. Spurred by the memory of this event, the 2009 Bolivian constitution makes explicit that the state controls, monitors, and regulates biological and genetic resources.[^26] This may prevent international biopriacy, the unauthorized exploitation of biological knowledge or resources. But even the state-controlled solution is not perfect. As Emma McDonnell writes in the Peruvian context, “As indigenous farming communities lose control over quinoa’s genetic resources, they become consumers of seeds created in state and private laboratories and no longer are they the key decision-makers regarding quinoa [plant genetic resources].”[^27]
 
 <param ve-knightlab-timeline
@@ -116,7 +115,6 @@ height="750">
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Mineral prospecting and extraction near quinoa farms, also supposed to increase the standard of living for highland Andean communities, threaten the sustainability of quinoa production for Peruvian farmers as the two industries are fundamentally at odds with one another.[^28] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
 
 <param ve-image url="https://commons.wikimedia.org/wiki/File:Chenopodium_quinoa0.jpg">
-
 
 # References
 
