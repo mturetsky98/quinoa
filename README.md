@@ -25,8 +25,8 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today, the engraving makes clear the leaf and root structures, while today's pictures usually emphasize the colorful panicle atop the plant.  Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botanical gardens and taxonomy.[^5]
 
-<param ve-compare sync url="Feuillee.jpg">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Red_quinoa_plants.JPG">
+<param ve-image url="Feuillee.jpg">
+
 
 ### The Importance of Quinoa in Ancient Andean Diets
 
