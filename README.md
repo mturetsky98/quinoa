@@ -49,7 +49,7 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 {#paragraph6}
 
 Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler Inca Garcilaso de la Vega, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg" fit="contain" title="Portrait of Inca Garcilaso de la Vega">
+<param ve-image url="https://es.wikipedia.org/wiki/Inca_Garcilaso_de_la_Vega#/media/Archivo:Inca_Garcilaso_1879.jpg" fit="contain" title="Portrait of Inca Garcilaso de la Vega. Source: Wikimedia Commons">
 <param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period. Source: Dumbarton Oaks, http://museum.doaks.org/objects-1/info/23036" fit="contain">
 <param ve-entity eid="Q334711">
 <param ve-entity eid="Q718781">
@@ -137,11 +137,10 @@ height="750">
 {#paragraph21}
 
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Mining near quinoa farms threatens the sustainability of quinoa production for Peruvian farmers as the two industries are fundamentally at odds with one another.[^29] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Chenopodium_quinoa0.jpg" fit="contain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Chenopodium_quinoa0.jpg" title="fit="contain">
 {#paragraph22}
 
 ### References
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Quinoa_Field.jpg" title="A field of red quinoa. Source: Wikimedia Commons" fit="contain">
 [^1]:  Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
 [^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–13.
 [^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme)
@@ -171,4 +170,5 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^27]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
 [^28]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^29]: Seligmann, _Quinoa_, chap. 7.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Quinoa_Field.jpg" title="A field of red quinoa. Source: Wikimedia Commons" fit="contain">
 {#paragraph23}
