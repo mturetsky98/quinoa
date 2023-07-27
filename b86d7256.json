@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "This map of the Inca Empire, in Quechua known as Tahuantinsuyu, was produced by Clements Markham, a nineteenth century British geographer, in 1873.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/mturetsky98/quinoa/main/IncaMap2.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:185.43276977539062,1107.7982177734375,447.6574401855469,485.140625"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ddffad39-dee5-4813-a79c-64dcb774492f"
+  }
+]
