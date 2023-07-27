@@ -20,30 +20,41 @@ In fact, quinoa has a long history, dating back several thousand years to the An
 {#paragraph2}
 
 ### Botanical Properties of Quinoa
-The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lambs’ quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (_Amaranthaceae_).
+The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lamb's quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (_Amaranthaceae_).
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.us00036845">
 <param ve-entity eid="Q5218">
 <param ve-entity eid="Q158094">
-<param ve-entity eid="Q19912346">
+<param ve-entity eid="Q155931">
+<param ve-entity eid="Q158610">
 {#paragraph3}
 
-In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today, the engraving makes clear the leaf and root structures, while today's pictures usually emphasize the colorful panicle atop the plant.  Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botanical gardens and taxonomy.[^5]
-<param ve-image url="Feuillee.jpg" region="-268,125,1921,1695">
+In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today, the engraving makes clear the leaf and root structures, while today's pictures usually emphasize the colorful panicle atop the plant.  The late eighteenth century German botanist Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4]  Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botany.[^5]
+<param ve-image url="Feuillee.jpg" fit="contain">
+<param ve-entity eid="Q1871688">
+<param ve-entity eid="Q76353">
 {#paragraph4}
 
 ### The Importance of Quinoa in Ancient Andean Diets
 
-Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. It is unclear how important quinoa was to Incan diets and culture, but Incas also referred to quinoa as chisiya mama, or Mother Grain.[^6]
+Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. Quinoa was certainly important to Incan diets, though the extent to which it was central to culture and cuisine is unclear. Nevertheless, the Inca also referred to quinoa as chisiya mama, or Mother Grain.[^6]
 <param ve-image url="IncaMap.jpg">
+<param ve-entity eid="Q28573">
 {#paragraph5}
 
 Archaeological evidence suggests that quinoa was likely first domesticated more than 5000 years ago in the Altiplano – a high-elevation plateau approximately 4,000 meters above sea level in a region of South America that spans present-day Bolivia and Peru, near Lake Titicaca. The domestication process highlights the important relationship between plants, humans, and animals.[^7]  Before Andean peoples in the altiplano region became large-scale agriculturalists, they were predominately pastoralists, herding llamas and alpacas, two domesticated camelid species. Archaeologists have concluded that camelids would eat the wild species of quinoa, release the seeds in their droppings near herding communities, and wild quinoa seeds would sprout nearby. Over time, ancient Andeans would come to formally cultivate quinoa. The mutualistic relationship, then, between camelids, quinoa, and people allowed for quinoa to become domesticated thousands of years ago.[^8]
 <param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/titicacaMap.json">
+<param ve-entity eid="Q118574">
+<param ve-entity eid="Q35342">
+<param ve-entity eid="Q135022" title="camelid">
+<param ve-entity eid="Q55982999">
 {#paragraph6}
 
 Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler Inca Garcilaso de la Vega, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10]  Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg" fit="contain">
+<param ve-entity eid="Q334711">
+<param ve-entity eid="Q718781">
+<param ve-entity eid="Q70702">
 {#paragraph7}
 
 ### Quinoa in the Colonial Period
