@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "The bulge in the figure's cheek is a common way to represent coca chewing in Incan art. ",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/d35577b1a2d1688cde29121dc51059da5c74ea0fe431225f805c75c159dbc24a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1105.8876953125,663.2676391601562,392.2711181640625,365.32110595703125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#c23ac329-3744-4580-8a88-15168eaa6d8f"
+  }
+]
