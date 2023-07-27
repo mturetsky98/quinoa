@@ -95,7 +95,7 @@ Since the recent rise in international interest in quinoa, scholars in a variety
 {#paragraph14}
 
 Scientists and international development agencies, such as the Food and Agricultural Organization (FAO) of the United Nations (UN), have hailed quinoa as an important crop to alleviate the challenges of global hunger and the world’s food supply exacerbated by climate change and a narrowing of crop diversity. Wheat, rice, and corn make up two thirds of of all calories consumed, and we rely on very few varieties of those crops. This means that pests, diseases, and unforeseen climate disasters could dramatically impact global public health if there is a major crop failure.[^21] As such, policymakers and leaders have encouraged diversifying diets and the genetic makeup of agricultural farms. In 2011, Bolivian officials claimed that quinoa was an “ancient crop to contribute to world food security.”[^22] The FAO agreed and thus was born the International Year of Quinoa.
-<param ve-image url="cropDiversity" fit="contain" title="Geographical distribution of crop diveristy around the world. Source: CIAT, https://blog.ciat.cgiar.org/origin-of-crops/." license="public domain">
+<param ve-image url="cropDiversity.jpg" fit="contain" title="Geographical distribution of crop diveristy around the world. Source: CIAT, https://blog.ciat.cgiar.org/origin-of-crops/." license="public domain">
 <param ve-entity eid="Q5187949">
 {#paragraph15}
 
