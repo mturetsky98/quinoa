@@ -58,7 +58,7 @@ Today and in the past, quinoa is recognized for its exceptional nutritional qual
 
 ### Quinoa in the Colonial Period
 Spanish colonization brought significant changes to farmers growing quinoa. As part of the Columbian Exchange, Spaniards brought wheat, barley, rice, and other crops from the Old World and introduced them to Andean farming systems. Spanish colonial policies made Indigenous people pay a tribute tax, which could only be paid in wheat or barley. As the geographer Karl Zimmerer explains, this policy essentially forced farmers to grow less quinoa and more European crops. Nevertheless, Indigenous people continued to grow quinoa, despite the impositions of Spanish colonialism.[^11]
-<param ve-image url="ColumbianExchange.jpg" fit="contain" title="Map showing the transfer of important plants, animals, and diseases to and from the New and Old Worlds." license="OpenStax">
+<param ve-image url="ColumbianExchange.jpg" fit="contain" title="Map showing the transfer of important plants, animals, and diseases to and from the New and Old Worlds." attribution=“OpenStax”>
 <param ve-entity eid="Q767253">
 {#paragraph8}
 
