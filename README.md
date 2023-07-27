@@ -141,6 +141,7 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 {#paragraph22}
 
 ### References
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Quinoa_Field.jpg" title="A field of red quinoa. Source: Wikimedia Commons" fit="contain">
 [^1]:  Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
 [^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–13.
 [^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme)
@@ -170,4 +171,4 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^27]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
 [^28]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^29]: Seligmann, _Quinoa_, chap. 7.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Red_Quinoa_Field.jpg" title="A field of red quinoa. Source: Wikimedia Commons" fit="contain">
+{#paragraph23}
