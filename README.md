@@ -45,7 +45,7 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 <param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="3">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/titicacaMap.json">
 <param ve-entity eid="Q118574">
-<param ve-entity eid="Q35342">
+<param ve-entity eid="Q35342" title="Lake Titicaca">
 <param ve-entity eid="Q135022" title="camelid">
 <param ve-entity eid="Q55982999">
 {#paragraph6}
