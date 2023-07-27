@@ -19,7 +19,7 @@ In fact, quinoa has a long history, dating back several thousand years to the An
 <param ve-entity eid="Q5456">
 {#paragraph2}
 
-### Botanical Properties of Quinoa
+### The Ethnobotany of Quinoa
 The word quinoa comes from Quechua, one of many Indigenous languages spoken in the Andes. Quinoa is in the genus Chenopodium or the goosefoot family, so-called because the leaves resemble the three-pointed feet of a goose. There are about 250 species in the Chenopodium family, and quinoa is the most well-known. Closely related species include lamb's quarters (Chenopodium album), a common species of the same genus found around the world and widely considered a weed, and amaranth and spinach, in the same family (_Amaranthaceae_).
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.us00036845">
 <param ve-entity eid="Q5218">
@@ -34,8 +34,6 @@ In 1725 Louis Feuillée authored the first scientific description of quinoa alon
 <param ve-entity eid="Q76353">
 <param ve-entity eid="Q148600">
 {#paragraph4}
-
-### The Importance of Quinoa in Ancient Andean Diets
 
 Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. Quinoa was certainly important to Incan diets, though the extent to which it was central to culture and cuisine is unclear. Nevertheless, the Inca also referred to quinoa as chisiya mama, or Mother Grain.[^6]
 <param ve-image url="IncaMap2.jpg">
@@ -52,6 +50,7 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 
 Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler Inca Garcilaso de la Vega, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg" fit="contain">
+<param ve-image url"manCoca.jpg" title="Standing man figurine chewing coca">
 <param ve-entity eid="Q334711">
 <param ve-entity eid="Q718781">
 <param ve-entity eid="Q70702">
