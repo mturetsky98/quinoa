@@ -29,7 +29,7 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 {#paragraph3}
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today that highlight large, colorful sprouting quinoa, the engraving makes clear the leaf and root structures, while the <span data-mouseover-image-zoomto="195,120,733,647">panicle</span> atop the plant is hidden behind the leaves. The late eighteenth century German botanist Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4] Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botany.[^5]
-<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of _Chenopodium quinoa_ in Feuillée's book _Journal des observations physiques, mathematiques et botaniques_ (1725)">
+<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of _Chenopodium quinoa_ in Feuillée's book Journal des observations physiques, mathematiques et botaniques (1725)">
 <param ve-entity eid="Q1871688">
 <param ve-entity eid="Q76353">
 <param ve-entity eid="Q148600">
@@ -50,7 +50,7 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 
 Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler Inca Garcilaso de la Vega, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg" fit="contain" title="Portrait of Inca Garcilaso de la Vega">
-<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period" fit="contain">
+<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period. Source: Dumbarton Oaks, http://museum.doaks.org/objects-1/info/23036" fit="contain">
 <param ve-entity eid="Q334711">
 <param ve-entity eid="Q718781">
 <param ve-entity eid="Q70702">
@@ -62,8 +62,8 @@ Spanish colonization brought significant changes to farmers growing quinoa. As p
 <param ve-entity eid="Q767253">
 {#paragraph8}
 
-In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman <span eid="Q473217">Felipe Guaman Poma de Ayala</span> explained the agricultural habits of Indigenous Andeans. Alongside quinoa they grew potatoes, oca, maize, coca, and many other plants. In September they planted quinoa. While the Incas did not have a writing system, they still devised a way to maintain important records on knotted threads called a quipu. While present day scholars have not discovered how to read quipus, it is likely that they served more as a recording device rather than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^12] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods.
-<param ve-image url="Poma1.jpg" fit="contain" title="Illustrations by Guaman Poma showing Incan accountants using a quipu">
+In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman <span eid="Q473217">Felipe Guaman Poma de Ayala</span> explained the agricultural habits of Indigenous Andeans. Alongside quinoa they grew potatoes, oca, maize, coca, and many other plants. In September they planted quinoa. While the Incas did not have a writing system, they still devised a way to maintain important records on knotted threads called a <span data-mouseover-image-zoomto="171,753,765,675">quipu</span>. While present day scholars have not discovered how to read quipus, it is likely that they served more as a recording device rather than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^12] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods.
+<param ve-image url="Poma1.jpg" fit="contain" title="Illustrations by Guaman Poma showing Incan accountants using a quipu. Source: Nueva coronica y buen gobierno. Ministerio de Cultura y Deporte de España, https://bvpb.mcu.es/iberoamerica/es/consulta/registro.do?id=576391">
 <param ve-image url="Poma2.jpg" fit="contain">
 <param ve-entity eid="Q1355893" title="oca">
 <param ve-entity eid="Q185292">
@@ -74,7 +74,7 @@ In general, Spanish colonizers rejected all types of Indigenous foods in part be
 {#paragraph10}
 
 Whether or not the Spanish really did enjoy quinoa as much as Garcilaso suggests is not entirely clear. For one, the tribute policy and the continual decline in quinoa production throughout the colonial period suggest that quinoa was not quite so venerated by the Spanish. Sometimes called the first “mestizo” – a person of mixed Indigenous and Spanish descent – Garcilaso sought to defend racial mixing at a time when Spaniards denounced mestizos. Nevertheless, Garcilaso offers an excellent early account of Indigenous customs, including quinoa consumption. He continued, Indigenous people also made quinoa into a beverage, brewing it along with maize into a beer known as chicha. Today, chicha remains an important part of Andean societies, although it is most often made exclusively with corn. Before a large agricultural work party, an offering is made to Pachamama, a deity in Indigenous Andean cosmologies that is similar to the idea of "Mother Earth," in which each member pours a few drops of chicha onto the soil before taking a sip.[^16]
-<param ve-image url="Llama effigy.jpg">
+<param ve-image url="Llama effigy.jpg" region="85,433,2284,2015" title="A small llama effigy made of stone used in Incan rituals. The hole in the back would be filled with chicha or coca during offerings. Source: Dumbarton Oaks, http://museum.doaks.org/objects-1/info/22699">
 <param ve-entity eid="Q106713">
 <param ve-entity eid="Q516592">
 <param ve-entity eid="Q266462">
