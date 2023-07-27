@@ -4,7 +4,7 @@
  title="Quinoa: From Indigenous Crop to International Superfood"
  source-image="https://upload.wikimedia.org/wikipedia/commons/c/c0/White%2C_red%2C_and_black_quinoa.jpg"
  banner="https://upload.wikimedia.org/wikipedia/commons/c/c0/White%2C_red%2C_and_black_quinoa.jpg"
- author="Matt Turetsky"
+ author="Matthew Turetsky"
  layout="vertical">
 
 ### Introduction
@@ -15,7 +15,7 @@ In 2013, quinoa had its big break. <span eid="Q119847893">The Food and Agricultu
 {#paragraph1}
 
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,”a plant that various groups think can solve myriad problems, but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2] Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a "forgotten" plant like quinoa.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" title="A field of quinoa in the Andes">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" region="900,71,2240,1976" title="A field of quinoa in the Andes" license="public domain">
 <param ve-entity eid="Q5456">
 {#paragraph2}
 
