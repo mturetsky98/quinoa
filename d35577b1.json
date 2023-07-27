@@ -4,6 +4,26 @@
     "body": [
       {
         "type": "TextualBody",
+        "value": "The figure's body was likely once clothed with a cloak, headress, and other adornments",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/d35577b1a2d1688cde29121dc51059da5c74ea0fe431225f805c75c159dbc24a",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:833.7713012695312,1102.5087890625,709.6517944335938,1635.013671875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#1121543b-5384-4b0f-859f-fb74a1914dbe"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
         "value": "Elongated ears symbolizes his status as an Incan nobleman who would be able to wear ear ornaments.",
         "purpose": "commenting"
       }
