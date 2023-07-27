@@ -15,7 +15,7 @@ In 2013, quinoa had its big break. <span eid="Q119847893">The Food and Agricultu
 {#paragraph1}
 
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,”a plant that various groups think can solve myriad problems, but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2] Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a "forgotten" plant like quinoa.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" region="900,71,2240,1976" title="A field of quinoa in the Andes" caption="Wikimedia commons" license="public domain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" region="900,71,2240,1976" title="A field of quinoa in the Andes" license="public domain">
 <param ve-entity eid="Q5456">
 {#paragraph2}
 
@@ -29,7 +29,7 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 {#paragraph3}
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today that highlight large, colorful sprouting quinoa, the engraving makes clear the leaf and root structures, while the <span data-mouseover-image-zoomto="195,120,733,647">panicle</span> atop the plant is hidden behind the leaves. The late eighteenth century German botanist Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4] Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botany.[^5]
-<param ve-image url="Feuillee.jpg" fit="contain">
+<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of _Chenopodium quinoa_ in Feuillée's book _Journal des observations physiques, mathematiques et botaniques_ (1725)">
 <param ve-entity eid="Q1871688">
 <param ve-entity eid="Q76353">
 <param ve-entity eid="Q148600">
@@ -58,13 +58,13 @@ Today and in the past, quinoa is recognized for its exceptional nutritional qual
 
 ### Quinoa in the Colonial Period
 Spanish colonization brought significant changes to farmers growing quinoa. As part of the Columbian Exchange, Spaniards brought wheat, barley, rice, and other crops from the Old World and introduced them to Andean farming systems. Spanish colonial policies made Indigenous people pay a tribute tax, which could only be paid in wheat or barley. As the geographer Karl Zimmerer explains, this policy essentially forced farmers to grow less quinoa and more European crops. Nevertheless, Indigenous people continued to grow quinoa, despite the impositions of Spanish colonialism.[^11]
-<param ve-image url="ColumbianExchange.jpg">
+<param ve-image url="ColumbianExchange.jpg" fit="contain" title="Map showing the transfer of important plants, animals, and diseases to and from the New and Old Worlds. Source: OpenStax, https://openstax.org/books/us-history/pages/2-4-new-worlds-in-the-americas-labor-commerce-and-the-columbian-exchange#CNX_History_02_04_Columbian">
 <param ve-entity eid="Q767253">
 {#paragraph8}
 
 In an illustrated chronicle written in 1615 in the form of a letter to the king of Spain, the Indigenous nobleman <span eid="Q473217">Felipe Guaman Poma de Ayala</span> explained the agricultural habits of Indigenous Andeans. Alongside quinoa they grew potatoes, oca, maize, coca, and many other plants. In September they planted quinoa. While the Incas did not have a writing system, they still devised a way to maintain important records on knotted threads called a quipu. While present day scholars have not discovered how to read quipus, it is likely that they served more as a recording device rather than a formal writing system. Guaman Poma explained that “\[The Royal Accountant\] kept track of the amount of wool of the deer called _taruca_, that of the the Indians, and the food called quinoa. He counted the quinoa and the Indians. He was very capable, as if he used paper and ink.”[^12] In this context, Guaman Poma relayed to the Spanish king quinoa's place in sophisticated Andean administrative methods.
-<param ve-image url="Poma1.jpg">
-<param ve-image url="Poma2.jpg">
+<param ve-image url="Poma1.jpg" fit="contain" title="Illustrations by Guaman Poma showing Incan accountants using a quipu">
+<param ve-image url="Poma2.jpg" fit="contain">
 <param ve-entity eid="Q1355893" title="oca">
 <param ve-entity eid="Q185292">
 {#paragraph9}
