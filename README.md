@@ -50,7 +50,7 @@ Archaeological evidence suggests that quinoa was likely first domesticated more 
 
 Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler Inca Garcilaso de la Vega, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/62/Garcilaso_de_la_Vega-recortado.jpg" fit="contain">
-<param ve-image url="manCoca.jpg" title="Standing man figurine chewing coca" fit="contain">
+<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period" fit="contain">
 <param ve-entity eid="Q334711">
 <param ve-entity eid="Q718781">
 <param ve-entity eid="Q70702">
