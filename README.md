@@ -43,7 +43,7 @@ Since quinoa is native to the Andes, it is most associated with the Inca Empire,
 {#paragraph5}
 
 Archaeological evidence suggests that quinoa was likely first domesticated more than 5000 years ago in the Altiplano – a high-elevation plateau approximately 4,000 meters above sea level in a region of South America that spans present-day Bolivia and Peru, near <span eid="Q35342">Lake Titicaca</span>. The domestication process highlights the important relationship between plants, humans, and animals.[^7] Before Andean peoples in the altiplano region became large-scale agriculturalists, they were predominately pastoralists, herding llamas and alpacas, two domesticated camelid species. Archaeologists have concluded that camelids would eat the wild species of quinoa, release the seeds in their droppings near herding communities, and wild quinoa seeds would sprout nearby. Over time, ancient Andeans would come to formally cultivate quinoa. The mutualistic relationship, then, between camelids, quinoa, and people allowed for quinoa to become domesticated thousands of years ago.[^8]
-<param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="3">
+<param ve-map title="Map of world" center="-15.818934, -69.831107" zoom="5">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/titicacaMap.json">
 <param ve-entity eid="Q118574">
 <param ve-entity eid="Q135022" title="camelid">
