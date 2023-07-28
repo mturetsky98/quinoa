@@ -15,7 +15,7 @@ In 2013, quinoa had its big break. <span eid="Q119847893">The Food and Agricultu
 {#paragraph1}
 
 In fact, quinoa has a long history, dating back several thousand years to the Andean region of South America, where it was typically grown as a subsistence food by farmers in what is today Peru, Bolivia, Ecuador, Chile, and Argentina. The quinoa boom has brought new opportunities and challenges to the Andes, making the situation a complex interplay between local farmers, state policies, and international consumer preferences. The anthropologist Emma McDonnell argues that quinoa has become a “miracle crop,”a plant that various groups think can solve myriad problems, but the realities regarding quinoa have been much more tempered than the lofty aspirations of some promoters.[^2] Plants are crucial to our diets, and yet we rarely think about how the nutritional interests of one country can impact the nutritional possibilities of another far away. Understanding how quinoa transformed from an isolated Andean subsistence crop to an international “superfood” is important when considering issues of food justice, sustainability, and the next food trend or diet fad that mythologizes a "forgotten" plant like quinoa.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" region="900,71,2240,1976" title="A field of quinoa in the Andes" license="Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Quinua.JPG" region="900,71,2240,1976" title="A field of quinoa in the Andes" attribution="Wikimedia Commons" license="public domain">
 <param ve-entity eid="Q5456">
 {#paragraph2}
 
@@ -29,27 +29,27 @@ The word quinoa comes from Quechua, one of many Indigenous languages spoken in t
 {#paragraph3}
 
 In 1725 Louis Feuillée authored the first scientific description of quinoa along with a botanical engraving.[^3] Compared with popular images of quinoa today that highlight large, colorful sprouting quinoa, the engraving makes clear the leaf and root structures, while the <span data-mouseover-image-zoomto="195,120,733,647">panicle</span> atop the plant is hidden behind the leaves. The late eighteenth century German botanist Carl Ludwig Willdenow, who was likely the first to cultivate quinoa successfully in European gardens, assigned it its binomial taxonomic name Chenopodium quinoa in 1798.[^4] Compared to many other South American wild plants and cultivated crops, quinoa was introduced rather late to European botany.[^5]
-<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of _Chenopodium quinoa_ in Feuillée's book Journal des observations physiques, mathematiques et botaniques (1725)">
+<param ve-image url="Feuillee.jpg" fit="contain" title="Engraving of Chenopodium quinoa in Feuillée, Journal des observations physiques, mathematiques et botaniques (1725)" attribution="Biblioteca Digital del Real Jardín Botánico" license="https://creativecommons.org/licenses/by-nc-sa/4.0/">
 <param ve-entity eid="Q1871688">
 <param ve-entity eid="Q76353">
 <param ve-entity eid="Q148600">
 {#paragraph4}
 
 Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. Quinoa was certainly important to Incan diets, though the extent to which it was central to culture and cuisine is unclear. Nevertheless, the Inca also referred to quinoa as chisiya mama, or Mother Grain.[^6]
-<param ve-image url="IncaMap2.jpg">
+<param ve-image url="IncaMap2.jpg" license="https://creativecommons.org/licenses/by-nc-sa/4.0/" attribution="Harvard Map Collection, Harvard University>
 <param ve-entity eid="Q28573">
 {#paragraph5}
 
 Archaeological evidence suggests that quinoa was likely first domesticated more than 5000 years ago in the Altiplano – a high-elevation plateau approximately 4,000 meters above sea level in a region of South America that spans present-day Bolivia and Peru, near <span eid="Q35342">Lake Titicaca</span>. The domestication process highlights the important relationship between plants, humans, and animals.[^7] Before Andean peoples in the altiplano region became large-scale agriculturalists, they were predominately pastoralists, herding llamas and alpacas, two domesticated camelid species. Archaeologists have concluded that camelids would eat the wild species of quinoa, release the seeds in their droppings near herding communities, and wild quinoa seeds would sprout nearby. Over time, ancient Andeans would come to formally cultivate quinoa. The mutualistic relationship, then, between camelids, quinoa, and people allowed for quinoa to become domesticated thousands of years ago.[^8]
-<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Mapa_cuencas_endorr%C3%A9icas_meseta_del_collao.jpg" title="These maps show the topography and geography of the Altiplano. The large plateau seen in the topographic map on the right is nestled between the peaks of the Andes. Source: Wikimedia Commons">
-<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Nasa_anden_altiplano.jpg">
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Mapa_cuencas_endorr%C3%A9icas_meseta_del_collao.jpg" title="These maps show the topography and geography of the Altiplano. The large plateau seen in the topographic map on the right is nestled between the peaks of the Andes." license="public domain" attribution="Wikimedia Commons">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Nasa_anden_altiplano.jpg" license="public domain" attribution="Wikimedia Commons">
 <param ve-entity eid="Q118574">
 <param ve-entity eid="Q135022" title="camelid">
 <param ve-entity eid="Q55982999">
 {#paragraph6}
 
-Today and in the past, quinoa is recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler <span eid="Q334711">Inca Garcilaso de la Vega</span>, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
-<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period. Source: Dumbarton Oaks, http://museum.doaks.org/objects-1/info/23036" fit="contain">
+Today and in the past, quinoa has been recognized for its exceptional nutritional qualities. Indigenous people also considered it healthy because of its medicinal properties, although Europeans mostly ignored these attributes of quinoa. The famed sixteenth century colonial chronicler <span eid="Q334711">Inca Garcilaso de la Vega</span>, son of a Spanish conquistador and Inca noblewoman, explained that “The Indian inhabitants use flour made of quinoa in various illnesses.”[^9]  Today’s ethnobotanical researchers have documented that quinoa has been used to treat broken bones, by immobilizing limbs or making poultices.[^10] Quinoa was also used in coca chewing, a long-standing tradition among Indigenous Andean peoples. To extract the stimulant properties of coca, Andeans made llipta, an alkaline ash powder, often made from quinoa stalks, to extract the coca alkaloids. Coca alleviated altitude sickness, fatigue, and hunger (most Andean communities in the highlands are higher than 3000 meters above sea level).
+<param ve-image url="manCoca.jpg" title="Standing figurine chewing coca from the Incan period." attribution="Dumbarton Oaks" fit="contain">
 <param ve-entity eid="Q718781">
 <param ve-entity eid="Q70702">
 {#paragraph7}
