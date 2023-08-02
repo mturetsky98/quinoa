@@ -135,10 +135,13 @@ height="750">
 
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Mining near quinoa farms threatens the sustainability of quinoa production for Peruvian farmers as the two industries are fundamentally at odds with one another.[^30] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
 <param ve-image url="felineGold.jpg" fit="contain" title="For thousands of years, Andean peoples have used gold, silver, and other metals to many types of goods and jewlery. The environmental and human toll of mining greatly accelerated during the Spanish colonial and modern era of mining technology and methods. These highly extractive methods have consequently jeopardized healthy agricultural systems." attribution="Dumbarton Oaks">
+<param ve-image url="pinParrotCorn.jpg" fit="contain">
+<param ve-image url="birdOrnament.jpg" fit="contain">
+<param ve-image url="femaleFigurine.jpg" fit="contain">
 {#paragraph22}
 
 ### References
-[^1]:  Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
+[^1]: Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
 [^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–13.
 [^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme)
 [^4]: Carl Ludwig Willdenow. _Species Plantarum_ (Berlin: G. C. Nauk, 1798), ed. 4 1(2): 1301.
@@ -162,7 +165,7 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^22]: FAO Regional Office for Latin America and Caribbean and PROINPA, “Quinoa: An Ancient Crop to Contribute to World Food Security,” 2011. [http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf](http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf)
 [^23]: Augustus Voelcker, “The Chemical Composition of Quinoa Seed,” _The Journal of Agriculture_, (1850), 506–9.
 [^24]: Semra Navruz-Varli and Nevin Sanlier, “Nutritional and Health Benefits of Quinoa (Chenopodium Quinoa Willd.),” _Journal of Cereal Science_ 69 (May 1, 2016): 372.
-[^25]:  María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," 31
+[^25]: María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," 31
 [^26]: John F. McCammant, “Quinoa’s Roundabout Journey to World Use,” in Chilies to Chocolate: Food the Americas Gave the World, ed. Nelson Foster and Linda S. Cordell (Tucson: University of Arizona Press, 1992), 132-133.
 [^27]: María Elena García, Gastropolitics and the Specter of Race: Stories of Capital, Culture, and Coloniality in Peru (Oakland, California: University of California Press, 2021). For quinoa's place in novoandino cuisine, see p. 58.
 [^28]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
