@@ -126,7 +126,7 @@ Since the International Year of Quinoa, journalists and scholars have debated wh
 
 One potential problem for quinoa growers aside from cultural appropriation in the Andes is the introduction of commercial quinoa farming in the United States, China, or elsewhere in the world that may be able to produce more quinoa at a lower price and outcompete Andean farmers in the market. While this has not happened yet, it is not an entirely new fear. In 1994, American researchers patented an improved variety of quinoa based off seeds cultivated by Bolivian farmers. In response, the [National Association of Quinoa Producers (ANAPQUI)](https://anapqui.org.bo/en/) in Bolivia fiercely challenged the patent, arguing that the patent stole intellectual property from the Indigenous farmers. The patent was upheld but the owners ultimately let it expire in 1998. Spurred by the memory of this event, the 2009 Bolivian constitution makes explicit that the state controls, monitors, and regulates biological and genetic resources.[^28] This may prevent international biopriacy, the unauthorized exploitation of biological knowledge or resources. But even the state-controlled solution is not perfect. As Emma McDonnell writes in the Peruvian context, “As indigenous farming communities lose control over quinoa’s genetic resources, they become consumers of seeds created in state and private laboratories and no longer are they the key decision-makers regarding quinoa [plant genetic resources].”[^29]
 <param ve-knightlab-timeline
-source=1kN24KiQMoXiGD7HHKts5mMSlaGsqpy748vj40tLqO-U
+source="1kN24KiQMoXiGD7HHKts5mMSlaGsqpy748vj40tLqO-U"
 timenav-position="bottom"
 hash-bookmark="false"
 initial-zoom="1"
