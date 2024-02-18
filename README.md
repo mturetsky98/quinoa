@@ -138,6 +138,7 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 <param ve-image url="felineGold.jpg" fit="contain" title="For thousands of years, Andean peoples have used gold, silver, and other metals to many types of goods and jewlery. The environmental and human toll of mining greatly accelerated during the Spanish colonial and modern era of mining technology and methods. Highly extractive methods have consequently jeopardized healthy agricultural systems.">
 <param ve-image url="pinParrotCorn.jpg" fit="contain">
 <param ve-image url="LasBambas.jpg" fit="contain">
+<param ve-image url="Yanacocha.jpg" fit="contain">
 {#paragraph22}
 
 ### References
