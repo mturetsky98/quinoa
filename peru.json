@@ -9713,11 +9713,11 @@
       },
       "type": "Feature",
       "properties": {
-        "stroke": "#e42121",
+        "stroke": "#0d0d0d",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#f61313",
-        "fill-opacity": 0.5
+        "fill": "##ffffff",
+        "fill-opacity": 0.4
       },
       "id": 0
     }
