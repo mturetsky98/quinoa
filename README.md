@@ -137,7 +137,6 @@ height="750">
 The patent disputes and present-day issues of Indigenous and state sovereignty over potentially valuable plant resources show that the ethical dilemmas of quinoa consumption go beyond questions of profits and fair compensation in the short-term. Mining near quinoa farms threatens the sustainability of quinoa production for Peruvian farmers as the two industries are fundamentally at odds with one another.[^30] Overall, quinoa’s history forces us to question whether and how we can improve global nutrition by eating foods from around the world while protecting the interests of the communities that have stewarded those foods for centuries.
 <param ve-image url="felineGold.jpg" fit="contain" title="For thousands of years, Andean peoples have used gold, silver, and other metals to many types of goods and jewlery. The environmental and human toll of mining greatly accelerated during the Spanish colonial and modern era of mining technology and methods. Highly extractive methods have consequently jeopardized healthy agricultural systems.">
 <param ve-image url="pinParrotCorn.jpg" fit="contain">
-<param ve-image url="Yanacocha.jpg" fit="contain">
 <param ve-image url="LasBambas.jpg" fit="contain">
 {#paragraph22}
 
