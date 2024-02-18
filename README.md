@@ -105,7 +105,7 @@ Nutritionally, quinoa is better than many other grain crops, such as wheat, rice
 {#paragraph17}
 
 Ecologically, quinoa is adapted to many different types of growing environments. This is because there are thousands of different quinoa varieties, sometimes called ecotypes. If one just looks at the shelves of an American grocery store, it may seem that there are only three types of quinoa: white, black, and red. But quinoa varieties differ more than just based on color. Of the thousands of quinoa varieties, there are five broad categories they can be classified in based on geography. These include the coasts of Chile, the inter-Andean valley regions, the altiplano (high-plateau) region that spans Peru and Bolivia, the Yungas,  the eastern slopes of the Andes, and the <span eid="Q76122">salt flats of Bolivia</span>. Each of these geographies has different climates based on altitude, rainfall, temperature, and soil conditions.[^25] As a result, seed saving efforts around the world have collected thousands of quinoa seed specimens from subsistence farmers to preserve quinoa’s high genetic diversity and climate adaptability.
-<param ve-map title="Primary producers of quinoa in South America. Today, Peru and Bolivia dominate worldwide production." center="-15.818934, -69.831107" zoom="4">
+<param ve-map title="Primary producers of quinoa in South America. Peru and Bolivia dominate worldwide production." center="-15.818934, -69.831107" zoom="4">
 <param ve-map-layer geojson url="https://raw.githubusercontent.com/mturetsky98/quinoa/main/quinoaCountries.json">
 <param ve-entity eid="Q743261">
 <param ve-entity eid="Q296519">
