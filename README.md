@@ -71,7 +71,7 @@ In general, Spanish colonizers rejected all types of Indigenous foods in part be
 {#paragraph10}
 
 Whether or not the Spanish really did enjoy quinoa as much as Garcilaso suggests is not entirely clear. For one, the tribute policy and the continual decline in quinoa production throughout the colonial period suggest that quinoa was not quite so venerated by the Spanish. Sometimes called the first “mestizo” – a person of mixed Indigenous and Spanish descent – Garcilaso sought to defend racial mixing at a time when Spaniards denounced mestizos. Nevertheless, Garcilaso offers an excellent early account of Indigenous customs, including quinoa consumption. He continued, Indigenous people also made quinoa into a beverage, brewing it along with maize into a beer known as chicha. Today, chicha remains an important part of Andean societies, although it is most often made exclusively with corn. Before a large agricultural work party, an offering is made to Pachamama, a deity in Indigenous Andean cosmologies that is similar to the idea of "Mother Earth," in which each member pours a few drops of chicha onto the soil before taking a sip.[^16]
-<param ve-image url="Llama effigy.jpg" region="85,433,2284,2015" title="A small llama effigy made of stone used in Inca rituals. The hole in the back would be filled with chicha or coca to perform offerings." attribution="Dumbarton Oaks">
+<param ve-image url="Llama effigy.jpg" region="85,433,2284,2015" title="A small llama effigy made of stone used in Inca rituals. The hole in the back would be filled with chicha or coca to perform offerings." attribution="Dumbarton Oaks. Object Number PC.B.431">
 <param ve-entity eid="Q106713">
 <param ve-entity eid="Q516592">
 <param ve-entity eid="Q266462">
