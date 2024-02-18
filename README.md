@@ -139,6 +139,7 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 <param ve-image url="pinParrotCorn.jpg" fit="contain">
 <param ve-image url="birdOrnament.jpg" fit="contain">
 <param ve-image url="femaleFigurine.jpg" fit="contain">
+<param ve-image url="Yanacocha.jpg" fit="contain">
 {#paragraph22}
 
 ### References
