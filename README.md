@@ -35,7 +35,7 @@ In 1725 Louis Feuillée authored the first scientific description of quinoa alon
 {#paragraph4}
 
 Since quinoa is native to the Andes, it is most associated with the Inca Empire, which the Spanish conquistadors defeated in the mid-sixteenth century. But quinoa was domesticated and important to Andean diets long before the Inca empire. Quinoa was certainly important to Inca diets, though the extent to which it was central to culture and cuisine is unclear. Nevertheless, the Inca also referred to quinoa as chisiya mama, or Mother Grain.[^6]
-<param ve-image url="IncaMap2.jpg" license="https://creativecommons.org/licenses/by-nc-sa/4.0/" attribution="Map by Clements Markham (1873). Harvard Map Collection, Harvard University">
+<param ve-image url="https://commons.princeton.edu/mg/wp-content/uploads/2017/04/Inca-expansion.png" license="public domaine" attribution="Mapping Globalization. Princeton University and the University of Washington">
 <param ve-entity eid="Q28573">
 {#paragraph5}
 
