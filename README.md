@@ -141,33 +141,33 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 {#paragraph22}
 
 ### References
-[^1]: Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–47.
-[^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–13.
-[^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10, [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme)
-[^4]: Carl Ludwig Willdenow. _Species Plantarum_ (Berlin: G. C. Nauk, 1798), ed. 4 1(2): 1301, [http://www.botanicus.org/page/630618](http://www.botanicus.org/page/630618)
+[^1]: Antonio Vega-Gálvez et al., “Nutrition Facts and Functional Potential of Quinoa (Chenopodium Quinoa Willd.), an Ancient Andean Grain: A Review,” _Journal of the Science of Food and Agriculture_ 90, no. 15 (2010): 2541–2547.
+[^2]: Emma McDonell, “The Miracle Crop as Boundary Object: Quinoa’s Rise as a ‘Neglected and Under-Utilized Species,’” in _Critical Approaches to Superfoods_, ed. Emma McDonell and Richard Wilk (London: Bloomsbury, 2020), 102–113.
+[^3]: Louis Feuillée, _Journal des observations physiques, mathematiques et botaniques_ (Paris: Chez Jean Mariette 1725), 3: plate 10. [https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme](https://bibdigital.rjb.csic.es/records/item/9796-journal-des-observations-physiques-mathematiques-et-botaniques-tome-troisieme).
+[^4]: Carl Ludwig Willdenow, _Species Plantarum_ (Berlin: G. C. Nauk, 1798), ed. 4 1(2): 1301, [http://www.botanicus.org/page/630618](http://www.botanicus.org/page/630618)
 [^5]: H. Walter Lack and Susy Fuentes, “The Discovery, Naming and Typification of Chenopodium Quinoa (Chenopodiaceae),” _Willdenowia_ 43, no. 1 (2013): 148.
 [^6]: María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," in FAO and CIRAD, _State of the Art Report on Quinoa around the World in 2013_, eds. Didier Bazile, Daniel Bertrero, and Carlos Nieto (Rome, 2015), 36.
-[^7]: Lawrence A. Kuznar, “Mutualism between Chenopodium, Herd Animals, and Herders in the South Central Andes,” _Mountain Research and Development_ 13, no. 3 (1993): 257–65.
+[^7]: Lawrence A. Kuznar, “Mutualism between Chenopodium, Herd Animals, and Herders in the South Central Andes,” _Mountain Research and Development_ 13, no. 3 (1993): 257–265.
 [^8]: BrieAnna S. Langlie and José M. Capriles, “Paleoethnobotanical Evidence Points to Agricultural Mutualism among Early Camelid Pastoralists of the Andean Central Altiplano,” _Archaeological and Anthropological Sciences_ 13, no. 7 (June 7, 2021): 107.
 [^9]: Garcilaso de la Vega, _Royal Commentaries of the Incas, and General History of Peru_, trans. Harold V. Livermore (Austin: University of Texas Press, 1966), 500.
-[^10]: Ángel Mujica et al., “Nutraceutic Uses and Ancestral Knowledge of the Quinoa (Chenopodium Quinoa Wild) and Wild Relatives in the Food of Andean Native Peoples,” _Advances in Complementary & Alternative Medicine_ 6, no. 1 (2020): 518–27.
+[^10]: Ángel Mujica et al., “Nutraceutic Uses and Ancestral Knowledge of the Quinoa (Chenopodium Quinoa Wild) and Wild Relatives in the Food of Andean Native Peoples,” _Advances in Complementary & Alternative Medicine_ 6, no. 1 (2020): 518–527.
 [^11]: Karl S. Zimmerer, _Changing Fortunes: Biodiversity and Peasant Livelihood in the Peruvian Andes_ (Berkeley: University of California Press, 1996), 61.
 [^12]: Felipe Guaman Poma de Ayala, _The First New Chronicle and Good Government: On the History of the World and the Incas up To 1615_, trans. Roland Hamilton (Austin: University of Texas Press, 2009), 289.
 [^13]: Rebecca Earle, _The Body of the Conquistador: Food, Race and the Colonial Experience in Spanish America, 1492–1700_ (Cambridge: Cambridge University Press, 2012), 172.
 [^14]: Alfred W. Crosby, _The Columbian Exchange: Biological and Cultural Consequences of 1492_ (Westport: Greenwood Press, 1973).
 [^15]: Garcilaso de la Vega, _Royal Commentaries_, 500.
-[^16]: Catherine J. Allen, _The Hold Life Has: Coca and Cultural Identity in an Andean Community_, 2nd ed. (Washington, D.C.: Smithsonian Institution, 2002), 114-15.
+[^16]: Catherine J. Allen, _The Hold Life Has: Coca and Cultural Identity in an Andean Community_, 2nd ed. (Washington, D.C.: Smithsonian Institution, 2002), 114-115.
 [^17]: Earle, _The Body of the Conquistador_, chap. 4.
-[^18]: Daniel W. Gade, “Llamas and Alpacas as "Sheep" in the Colonial Andes: Zoogeography Meets Eurocentrism,” _Journal of Latin American Geography_ 12, no. 2 (2013): 221–43.
-[^19]: Samuel Curtis and Sir William Jackson Hooker, “Chenopodium Quinoa. Useful Quinoa.” _Curtis’s Botanical Magazine_ vol. 65 (ser. 2 vol. 12) (1839), 3641.
+[^18]: Daniel W. Gade, “Llamas and Alpacas as "Sheep" in the Colonial Andes: Zoogeography Meets Eurocentrism,” _Journal of Latin American Geography_ 12, no. 2 (2013): 221–243.
+[^19]: Samuel Curtis and Sir William Jackson Hooker, “Chenopodium Quinoa. Useful Quinoa,” _Curtis’s Botanical Magazine_ vol. 65 (ser. 2 vol. 12) (1839), 3641.
 [^20]: Linda Seligmann, _Quinoa: Food Politics and Agrarian Life in the Andean Highlands_ (Urbana, Illinois: University of Illinois Press, 2022), 163.
-[^21]: "Food Staple," National Geographic, last modified May 20,2022, https://education.nationalgeographic.org/resource/food-staple/.
-[^22]: FAO Regional Office for Latin America and Caribbean and PROINPA, “Quinoa: An Ancient Crop to Contribute to World Food Security,” 2011. [http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf](http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf)
-[^23]: Augustus Voelcker, “The Chemical Composition of Quinoa Seed,” _The Journal of Agriculture_, (1850), 506–9.
+[^21]: "Food Staple," National Geographic, last modified May 20, 2022. https://education.nationalgeographic.org/resource/food-staple/.
+[^22]: FAO Regional Office for Latin America and Caribbean and PROINPA, “Quinoa: An Ancient Crop to Contribute to World Food Security,” 2011. [http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf](http://www.cnafun.moa.gov.cn/zl/tstpzl/201305/P020130509357618775387.pdf).
+[^23]: Augustus Voelcker, “The Chemical Composition of Quinoa Seed,” _The Journal of Agriculture_, (1850), 506–509.
 [^24]: Semra Navruz-Varli and Nevin Sanlier, “Nutritional and Health Benefits of Quinoa (Chenopodium Quinoa Willd.),” _Journal of Cereal Science_ 69 (May 1, 2016): 372.
 [^25]: María Teresa Planella, María Laura López, and María Cristina Bruno, "Domestication and Prehistoric Distribution," 31
 [^26]: John F. McCammant, “Quinoa’s Roundabout Journey to World Use,” in _Chilies to Chocolate: Food the Americas Gave the World_, ed. Nelson Foster and Linda S. Cordell (Tucson: University of Arizona Press, 1992), 132-133.
 [^27]: María Elena García, _Gastropolitics and the Specter of Race: Stories of Capital, Culture, and Coloniality in Peru_ (Oakland, California: University of California Press, 2021). For quinoa's place in novoandino cuisine, see p. 58.
-[^28]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014, [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/)
+[^28]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014. [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/).
 [^29]: Emma McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” in _Andean Foodways: Pre-Columbian, Colonial and Contemporary Food and Culture_, ed. John E. Staller (Cham, Switzerland: Springer, 2021), 391.
 [^30]: Seligmann, _Quinoa_, chap. 7.
