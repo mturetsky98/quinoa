@@ -171,4 +171,3 @@ The patent disputes and present-day issues of Indigenous and state sovereignty o
 [^28]: Lisa M. Hamilton, “The Quinoa Quarrel,” _Harper’s Magazine_ May, 2014. [https://harpers.org/archive/2014/05/the-quinoa-quarrel/](https://harpers.org/archive/2014/05/the-quinoa-quarrel/).
 [^29]: McDonell, “Commercializing the ‘Lost Crop of the Inca’: Quinoa and the Politics of Agrobiodiversity in ‘Traditional’ Crop Commercialization,” 391.
 [^30]: Seligmann, _Quinoa_, chap. 7.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Red_quinoa_plants.JPG" fit="contain">
